@@ -1,1 +1,5 @@
 Do-File for Paper in Progress: 	Adames, A. “Is money a factor in Americans’ exercise and leisure time allocation?: Results from the American Time Use Survey”
+Steps to run:
+1. Download the 2020 ATUS Data excel
+2. Download Do-File, change working directory to set to your own (where the Do-File and excel are).
+Run Do-File
