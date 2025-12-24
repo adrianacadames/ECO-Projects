@@ -1,7 +1,7 @@
 Project: Is personal income determinant, by causation, of how much free leisure and exercising time employed Americans of age 18 to 65 decide to allocate in their time budget?
 Using the 2024 American Time Use Survey
 
-1.To run do code, download the "atus_2024_Data" file.
+1.To run do code, download the "atus_2024_Data" file in https://www.dropbox.com/scl/fi/bc76dhfd8us9nlgskacmm/atus_2024_Data.dta?rlkey=oiej6qs8l82ipvmijy11xegsl&st=jcnstvya&dl=0.
 2.Then, run de "Data Cleaning" do file.
 For results, regressions, and exporting, use "Exporting reg results" after running the previous steps.
 For running understanding the regressions by gender, use "Running regs by gender" after running steps 1 and 2.
